@@ -3,9 +3,9 @@
 🌐 **Official Website:** [GPTHumanizer](https://www.gpthumanizer.ai/)
 
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-Skill-blue)](https://github.com/openclaw/openclaw)
-[![ClawHub](https://img.shields.io/badge/ClawHub-Publishable-brightgreen)]((https://clawhub.ai/mattc95/ai-detector))
-[![API](https://img.shields.io/badge/API-GPTHumanizer-orange)](https://detect.gpthumanizer.ai/)
-[![License](https://img.shields.io/badge/License-MIT-lightgrey)](#license)
+[![ClawHub](https://img.shields.io/badge/ClawHub-Live-brightgreen)](https://clawhub.ai/mattc95/ai-detector)
+[![API](https://img.shields.io/badge/API-GPTHumanizer-orange)](./api.md)
+[![License](https://img.shields.io/badge/License-MIT--0-lightgrey)](#license)
 
 A professional OpenClaw skill for detecting whether text is likely **human-written**, **AI-generated**, **AI-humanized**, or **lightly edited** using the **GPTHumanizer Detection API**.
 
