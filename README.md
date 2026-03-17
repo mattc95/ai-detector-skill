@@ -1,5 +1,7 @@
 # GPTHumanizer AI Detector Skill for OpenClaw
 
+🌐 **Official Website:** [GPTHumanizer](https://www.gpthumanizer.ai/)
+
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-Skill-blue)](https://github.com/openclaw/openclaw)
 [![ClawHub](https://img.shields.io/badge/ClawHub-Publishable-brightgreen)](https://github.com/openclaw/clawhub)
 [![API](https://img.shields.io/badge/API-GPTHumanizer-orange)](https://detect.gpthumanizer.ai/)
