@@ -2,6 +2,7 @@
 name: AI Detector
 slug: ai-detector
 description: Detect whether text is human-written, AI-generated, AI-humanized, or lightly edited.
+homepage: https://www.gpthumanizer.ai/
 ---
 
 # AI Detector

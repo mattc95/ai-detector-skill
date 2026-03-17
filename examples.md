@@ -5,7 +5,7 @@
 ```bash
 curl -X POST "https://detect.gpthumanizer.ai/api/detect_ai" \
   -H "Content-Type: application/json" \
-  -d '{"text":"Your text here"}'
+  -d '{"text":"Your text here\nThis is the next line."}'
 ```
 
 ## Example Response
