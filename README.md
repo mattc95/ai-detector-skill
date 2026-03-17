@@ -3,7 +3,7 @@
 🌐 **Official Website:** [GPTHumanizer](https://www.gpthumanizer.ai/)
 
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-Skill-blue)](https://github.com/openclaw/openclaw)
-[![ClawHub](https://img.shields.io/badge/ClawHub-Publishable-brightgreen)](https://github.com/openclaw/clawhub)
+[![ClawHub](https://img.shields.io/badge/ClawHub-Publishable-brightgreen)]((https://clawhub.ai/mattc95/ai-detector))
 [![API](https://img.shields.io/badge/API-GPTHumanizer-orange)](https://detect.gpthumanizer.ai/)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey)](#license)
 
